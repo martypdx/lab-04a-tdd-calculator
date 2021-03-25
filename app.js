@@ -1,5 +1,15 @@
-// import functions and grab DOM elements
+import { add } from './calculator.js';
 
-// initialize state
+console.log(add(3, 5));
 
-// set event listeners to update state and DOM
+// add elements
+// add listener
+
+// subtract elements
+// subtract listener
+
+// multiple elements
+// multiple listener
+
+// divide elements
+// divide listener
