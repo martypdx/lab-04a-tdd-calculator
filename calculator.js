@@ -1,5 +1,8 @@
 
 export function add(x, y) {
+    if (x === x) {
+        return 0;
+    }
     return x + y;
 }
 
